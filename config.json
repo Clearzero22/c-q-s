@@ -1,0 +1,26 @@
+
+{
+  "work": {
+    "description": "工作模式：打开代码编辑器、浏览器和通讯工具",
+    "apps": [
+      "obsidian",
+      "siyuan",
+      ""
+    ]
+  },
+  "game": {
+    "description": "游戏模式：打开 Steam 和 Discord",
+    "apps": [
+      "hmcl",
+      "code",
+      "zed"
+    
+    ]
+  },
+  "browse": {
+    "description": "浏览模式：只打开浏览器",
+    "apps": [
+      "/Applications/Firefox.app/Contents/MacOS/firefox"
+    ]
+  }
+}
